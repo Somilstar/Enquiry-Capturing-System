@@ -1,0 +1,6 @@
+Enquiry Capturing System
+The Enquiry Capturing System is a web application developed using the MERN stack (MongoDB, Express, React, and Node.js) that streamlines the process of collecting and organizing customer enquiries. Designed to capture essential information from users, the system allows them to fill out an enquiry form on the website, submit it, and have the details sent directly to a Google Sheet in real time.
+
+Leveraging the Google Sheets API, this solution eliminates manual data entry and centralizes enquiry management in a single, accessible location. This not only enhances efficiency for teams handling customer interactions but also improves accuracy and organization. The intuitive front end, built with React, ensures a user-friendly experience, while the backend (Node.js and Express) securely handles form submissions, processes data, and manages Google Sheets integration.
+
+This system is ideal for businesses and organizations that require a lightweight, automated solution for enquiry management and data collection, helping them respond to customer needs effectively and keep track of essential interactions in an organized format.
